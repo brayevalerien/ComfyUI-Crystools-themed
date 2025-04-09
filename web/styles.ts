@@ -7,11 +7,11 @@ export enum Styles {
 }
 
 export enum Colors {
-  'CPU' = '#0AA015',
-  'RAM' = '#07630D',
-  'DISK' = '#730F92',
-  'GPU' = '#0C86F4',
-  'VRAM' = '#176EC7',
+  'CPU' = '#a6e22e',
+  'RAM' = '#44600d',
+  'DISK' = '#ac6218',
+  'GPU' = '#ae81ff',
+  'VRAM' = '#f92672',
   'TEMP_START' = '#00ff00',
   'TEMP_END' = '#ff0000',
 }
